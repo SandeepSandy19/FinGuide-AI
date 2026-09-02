@@ -1,0 +1,7 @@
+numpy
+pandas
+datasets
+matplotlib
+huggingface_hub
+ipykernel
+tqdm
