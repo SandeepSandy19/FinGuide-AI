@@ -5,3 +5,10 @@ matplotlib
 huggingface_hub
 ipykernel
 tqdm
+
+torch
+transformers
+peft
+trl 
+bitsandbytes
+accelerate

@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Ignore all processed/tokenized data directories
+data/tokenized/
+
+# Ignore Hugging Face dataset disk cache & arrow formats
+*.arrow
+dataset_dict.json
+state.json
